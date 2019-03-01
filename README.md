@@ -1,2 +1,2 @@
 # badeand-OOBB
-Extentions to the Open Building Block system
+Extensions to the Open Building Block system
